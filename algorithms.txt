@@ -1,0 +1,25 @@
+linear search - done
+binary search - done
+bubble sort - done
+insertion sort
+selection sort
+quick sort
+merge sort
+heap sort
+counting sort
+radix sort
+bucket sort
+depth-first search(DFS)
+breadth-first sort(BFS)
+dijkstra's algorithm
+bellman-ford algorithm
+floyd-warshall algorithm
+prim's algorithm
+kruskal's algorithm
+topological algorithm
+dynamic programming
+knapsack problem
+travelling salesman problem(TSP)
+convex hull
+maximum flow
+minimum spanning tree
